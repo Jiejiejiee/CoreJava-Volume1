@@ -1,4 +1,4 @@
-package indi.java.section3_1;
+package indi.java.section3_1program;
 
 /*
 

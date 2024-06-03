@@ -1,4 +1,4 @@
-package indi.java.section3_2;
+package indi.java.section3_2annotation;
 
 //注释方式1
 
